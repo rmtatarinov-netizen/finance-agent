@@ -1,0 +1,5 @@
+langchain==1.5.2
+langchain-openai==1.8.5
+langgraph==1.2.24
+python-dotenv==1.2.4
+yfinance==1.8.0
